@@ -124,8 +124,6 @@
 | ![13관리자-상품관리](https://user-images.githubusercontent.com/104059932/211254804-491ca39b-b17f-45a0-a114-dc07ee84f75d.PNG)|![14관리자-상품등록](https://user-images.githubusercontent.com/104059932/211254818-299dc21c-f601-45a6-a9a8-346e04c4cd3c.PNG)|
 | 관리자 - 상품 조회 | 관리자 - 상품 등록 |
 
-### 💡 [배포링크](https://jinytree.shop)
-
 ### 💡 [시연영상 full](https://youtu.be/t5Dc9RnDJao)
 
 ### 💡 테스트 계정
